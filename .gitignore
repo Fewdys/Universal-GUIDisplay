@@ -17,3 +17,7 @@
 /SimpleGUI/SimpleGUI/obj
 /Universal-SimpleGUI/obj
 /Universal-SimpleGUI/bin
+/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs
+/obj/Release/.NETFramework,Version=v4.8.AssemblyAttributes.cs
+/bin
+/obj
